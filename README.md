@@ -1,3 +1,2 @@
-# LINK HEROKU. https://dashboard.heroku.com/apps/quiet-cove-25653/activity
-
+# LINK HEROKU. https://quiet-cove-25653.herokuapp.com/
 
